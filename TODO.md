@@ -1,7 +1,7 @@
 ## index.html:  
 
-- [ ] Add navigation  
-- [ ] Add main content  
+- [ ] Añadir navegacion  
+- [ ] Añadir contenido principal 
 - [ ] Presentar festival  
 - [ ] Incluir imagen  
 - [ ] incluir emfasis y el otro que se me ha olvidado nya  
