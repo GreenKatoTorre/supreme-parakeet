@@ -21,7 +21,7 @@
 
 ## programa.html  
 
-- [ ] añadir navegacion  
+- [x] añadir navegacion  
 - [ ] incluir una intro  
 - [ ] incluir tabla
   - [ ] minimo 6 actividades
