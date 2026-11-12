@@ -10,38 +10,39 @@
 
 - [x] Añadir navegacion  
 - [ ] Añadir contenido principal 
-- [ ] Presentar festival  
-- [ ] Incluir imagen  
-- [ ] incluir emfasis y el otro que se me ha olvidado nya  
-- [ ] presentar 4 actividades  
-  - [ ] titulo  
-  - [ ] descripcion  
-  - [ ] informacion util  
-  - [ ] deben compartir estilo  
+  - [ ] Presentar festival  
+  - [ ] Incluir imagen  
+  - [ ] incluir emfasis y el otro que se me ha olvidado nya  
+  - [ ] presentar 4 actividades  
+    - [ ] titulo  
+    - [ ] descripcion  
+    - [ ] informacion util  
+    - [x] deben compartir estilo  
 - [ ] añadir patas de pagina  
 
 ## programa.html  
 
 - [x] añadir navegacion  
-- [ ] incluir una intro  
+- [ ] incluir una introduccion  
 - [ ] incluir tabla
   - [ ] minimo 6 actividades
     - [ ] hora
     - [ ] actividad
     - [ ] espacio
     - [ ] tipo actividad
-- [ ] añadir pie de pagina
+- [x] añadir pie de pagina
 
 ## contacte.html
 
-- [ ] añadir navegacion
-- [ ] añadir formulario
-  - [ ] nombre (obligatorio)
-  - [ ] correo (obligatorio, tipo correo)
-  - [ ] actividad
-  - [ ] mensaje
-  - [ ] boton enviar
-- [ ] añadir pie de pagina
+- [x] añadir navegacion
+- [ ] añadir info de contacto
+- [x] añadir formulario
+  - [x] nombre (obligatorio)
+  - [x] correo (obligatorio, tipo correo)
+  - [x] actividad
+  - [x] mensaje
+  - [x] boton enviar
+- [x] añadir pie de pagina
 
 ## styles.css
 

@@ -12,22 +12,30 @@
     <title>Contacte</title>
 </head>
 <body>
-
     <header>
         <nav>
-            <!-- TODO:
-            Añadir navegacion
-            -->
+            <ul>
+                <li><a href="index.html">pagina principal</a></li>
+                <li><a href="programa.html">programa</a></li>
+            </ul>
         </nav>
     </header>
     <main>
-        <!-- TODO:
-        Añadir info de contacto
-        Añadir form con nombre*, correo* (tipo correo), actividad, mensaje y boton enviar
-        -->
+        <!-- TODO: añadir info de contacto -->
+        <form action="post"> <!-- no se ni como va esto -->
+            <p><label for="nombre">Nom</label>
+            <input type="text" name="nombre" id="nombre" required>
+            <p><label for="correo">Correu</label>
+            <input type="email" name="correo" id="correo" required>
+            <p><label for="actividad">Activitat</label>
+            <input type="text" name="actividad" id="actividad">
+            <p><label for="mensaje">Missatge</label>
+            <textarea name="mensaje" id="mensaje"></textarea>
+            <p><button type="submit">Enviar</button>
+        </form>
     </main>
     <footer>
-        <!-- TODO: Add footer -->
+        <p>This page is distributed under the GNU General Public License v3, more information at <a href="https://www.gnu.org/licenses/">https://www.gnu.org/licenses/</a></p>
     </footer>
 </body>
 </html>
