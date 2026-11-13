@@ -2,7 +2,7 @@
 
 - [ ] enlaces
 - [ ] rutas relativas
-- [ ] usar la hoja de estilos
+- [x] usar la hoja de estilos
 - [ ] Documentar el codigo
 - [x] Añadir avisos de la GNU GPL
 
