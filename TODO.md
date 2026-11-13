@@ -35,7 +35,7 @@
 ## contacte.html
 
 - [x] añadir navegacion
-- [ ] añadir info de contacto
+- [x] añadir info de contacto
 - [x] añadir formulario
   - [x] nombre (obligatorio)
   - [x] correo (obligatorio, tipo correo)
