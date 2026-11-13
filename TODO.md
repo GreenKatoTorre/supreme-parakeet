@@ -10,15 +10,16 @@
 
 - [x] Añadir navegacion  
 - [ ] Añadir contenido principal 
-  - [ ] Presentar festival  
-  - [ ] Incluir imagen  
-  - [ ] incluir emfasis y el otro que se me ha olvidado nya  
-  - [ ] presentar 4 actividades  
-    - [ ] titulo  
-    - [ ] descripcion  
-    - [ ] informacion util  
+  - [x] Presentar festival  
+  - [x] Incluir imagen 
+    - [ ] Hacer imagen (Backup: reemplazar por clipforzado.png)
+  - [x] incluir emfasis y negrita  
+  - [x] presentar 4 actividades  
+    - [x] titulo  
+    - [x] descripcion  
+    - [x] informacion util  
     - [x] deben compartir estilo  
-- [ ] añadir patas de pagina  
+- [x] añadir patas de pagina  
 
 ## programa.html  
 
