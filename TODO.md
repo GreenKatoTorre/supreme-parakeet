@@ -23,13 +23,15 @@
 ## programa.html  
 
 - [x] añadir navegacion  
-- [ ] incluir una introduccion  
-- [ ] incluir tabla
-  - [ ] minimo 6 actividades
-    - [ ] hora
-    - [ ] actividad
-    - [ ] espacio
-    - [ ] tipo actividad
+- [x] incluir una introduccion  
+  - [ ] Escribir una introduccion real
+- [x] incluir tabla
+  - [x] minimo 6 actividades
+    - [x] hora
+    - [x] actividad
+    - [x] espacio
+    - [x] tipo actividad
+  - [ ] Añadir datos reales
 - [x] añadir pie de pagina
 
 ## contacte.html
