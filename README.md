@@ -23,6 +23,11 @@ Pero, por si un caso no te hubiesen llegado las noticias seguro que ya sabes lo 
 
 Con todo eso declarado, vamos a lo que quiero escribir
 
+## Agradecimientos
+
+- [static_danshi](https://www.instagram.com/static_danshi/) por el banner de la pagina
+- "DJ Doritos" por escribir el contenido de la pagina
+
 ## Archivos
 
 Mas de los que esperas? normal, te explico los que probablemente no conozcas

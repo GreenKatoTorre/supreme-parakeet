@@ -14,3 +14,36 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Wingdings, sans-serif; /*Especifica la lista de fuentes que se usaran*/
+    font-size: medium; /*Especifica el tamaño de fuente*/
+    background-color: #262626;
+    color: whitesmoke;
+}
+
+header,
+footer {
+    background-color: #101010;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+}
+
+.actividades {
+    display: flex;
+}
+
+.actividad {
+    border: 2px solid rgb(96 139 168);
+    border-radius: 5px;
+    background-color: rgb(96 139 168 / 0.2);
+    width: 110px;
+    margin: 5px;
+}
+
+.banner {
+    width: 100%;
+}

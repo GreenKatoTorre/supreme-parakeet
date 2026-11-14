@@ -1,7 +1,7 @@
 ## general:
 
-- [ ] enlaces
-- [ ] rutas relativas
+- [x] enlaces
+- [x] rutas relativas
 - [x] usar la hoja de estilos
 - [ ] Documentar el codigo
 - [x] Añadir avisos de la GNU GPL
@@ -12,7 +12,7 @@
 - [ ] Añadir contenido principal 
   - [x] Presentar festival  
   - [x] Incluir imagen 
-    - [ ] Hacer imagen (Backup: reemplazar por clipforzado.png)
+    - [x] Hacer imagen (Backup: reemplazar por clipforzado.png)
   - [x] incluir emfasis y negrita  
   - [x] presentar 4 actividades  
     - [x] titulo  
@@ -49,15 +49,15 @@
 
 ## styles.css
 
-- [ ] utilizar una tipografia
-- [ ] poner tamaño de fuente
-- [ ] escoger el color de texto y de fondo para poder leer bien
-- [ ] diferencia visualmente la cabecera y el pie de pagina del resto de la pagina
-- [ ] utilizar adecuadamente espaciados
-- [ ] utilizar adecuadamente los espacios interiores y exteriores
-- [ ] utilizar bordes redondeados cuando tenga sentido 
-- [ ] escribir CSS como una persona mentalmente estable (usar clases)
-- [ ] los elementos relacionados tienen que quedar visualmente identificados como conjunto
+- [x] utilizar una tipografia
+- [x] poner tamaño de fuente
+- [x] escoger el color de texto y de fondo para poder leer bien
+- [x] diferencia visualmente la cabecera y el pie de pagina del resto de la pagina
+- [x] utilizar adecuadamente espaciados
+- [x] utilizar adecuadamente los espacios interiores y exteriores
+- [x] utilizar bordes redondeados cuando tenga sentido
+- [x] escribir CSS como una persona mentalmente estable (usar clases)
+- [x] los elementos relacionados tienen que quedar visualmente identificados como conjunto
 
 ## flexbox
 
@@ -78,15 +78,15 @@
 - [ ] fuente consultada
 
 # final checklist:
-- [ ] las tres paginas se abren correctamente
-- [ ] se puede navegar entre todas las paginas
+- [x] las tres paginas se abren correctamente
+- [x] se puede navegar entre todas las paginas
 - [ ] las imagenes se cargan y tienen alt
-- [ ] el mismo CSS funciona en las 3 paginas 
+- [x] el mismo CSS funciona en las 3 paginas 
 - [x] el archivo CSS comienza con el comentario explicativo
-- [ ] las rutas relativas funcionan
+- [x] las rutas relativas funcionan
 - [ ] las clases reutilizan estilos cuando es posible
 - [ ] la distribucion flexbox funciona correctamente
-- [ ] el formulario aplica las validaciones necesarias
+- [x] el formulario aplica las validaciones necesarias
 - [ ] el readme.md explica la mejora investigada
 - [ ] no hay codigo que no puedas explicar <!-- caballero, la mitad del codigo de este sitio va a ser copypaste de MDN, con suerte soy capaz de entender como se usa el selector de tablas -->
 
