@@ -34,6 +34,7 @@ a {
 
 .actividades {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .actividad {
@@ -46,4 +47,17 @@ a {
 
 .banner {
     width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+th,
+td {
+    border: 1px solid rgb(160 160 160);
+    padding: 8px 10px;
 }

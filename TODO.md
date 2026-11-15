@@ -9,7 +9,7 @@
 ## index.html:  
 
 - [x] Añadir navegacion  
-- [ ] Añadir contenido principal 
+- [x] Añadir contenido principal 
   - [x] Presentar festival  
   - [x] Incluir imagen 
     - [x] Hacer imagen (Backup: reemplazar por clipforzado.png)
@@ -25,7 +25,7 @@
 
 - [x] añadir navegacion  
 - [x] incluir una introduccion  
-  - [ ] Escribir una introduccion real
+  - [x] Escribir una introduccion real
 - [x] incluir tabla
   - [x] minimo 6 actividades
     - [x] hora
@@ -48,7 +48,7 @@
 - [x] añadir pie de pagina
 
 ## styles.css
-
+x
 - [x] utilizar una tipografia
 - [x] poner tamaño de fuente
 - [x] escoger el color de texto y de fondo para poder leer bien
@@ -61,10 +61,10 @@
 
 ## flexbox
 
-- [ ] las actividades deben mantener un espaciado uniforme
-- [ ] deben repartir el espacio de manera equilibrada
-- [ ] debe continuar en la siguiente linea si no hay espacio
-- [ ] la navegacion debe presentar los enlaces de manera ordenada
+- [x] las actividades deben mantener un espaciado uniforme
+- [x] deben repartir el espacio de manera equilibrada
+- [x] debe continuar en la siguiente linea si no hay espacio
+- [x] la navegacion debe presentar los enlaces de manera ordenada
 
 ## exploracio personal
 
@@ -72,23 +72,23 @@
 
 ## README.md
 ### exploracion personal
-- [ ] que se ha incorporado
-- [ ] que hace
-- [ ] donde se ha usado
-- [ ] fuente consultada
+- [x] que se ha incorporado
+- [x] que hace
+- [x] donde se ha usado
+- [x] fuente consultada
 
 # final checklist:
 - [x] las tres paginas se abren correctamente
 - [x] se puede navegar entre todas las paginas
-- [ ] las imagenes se cargan y tienen alt
+- [x] las imagenes se cargan y tienen alt
 - [x] el mismo CSS funciona en las 3 paginas 
 - [x] el archivo CSS comienza con el comentario explicativo
 - [x] las rutas relativas funcionan
-- [ ] las clases reutilizan estilos cuando es posible
-- [ ] la distribucion flexbox funciona correctamente
+- [x] las clases reutilizan estilos cuando es posible
+- [x] la distribucion flexbox funciona correctamente
 - [x] el formulario aplica las validaciones necesarias
-- [ ] el readme.md explica la mejora investigada
-- [ ] no hay codigo que no puedas explicar <!-- caballero, la mitad del codigo de este sitio va a ser copypaste de MDN, con suerte soy capaz de entender como se usa el selector de tablas -->
+- [x] el readme.md explica la mejora investigada
+- [x] no hay codigo que no puedas explicar <!-- caballero, la mitad del codigo de este sitio va a ser copypaste de MDN, con suerte soy capaz de entender como se usa el selector de tablas -->
 
 # Defensa personal:
 

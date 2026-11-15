@@ -35,3 +35,24 @@ Mas de los que esperas? normal, te explico los que probablemente no conozcas
 - [LICENSE](LICENSE): Es una copia completa de la licencia de antes, por motivos legales, debes saber que este archivo, existe, esta aqui, y que, como ya he copiado antes, puedes encontrar una copia en <https://www.gnu.org/licenses/>
 - [TODO.md](TODO.md): Lista de cosas que hacer, aqui puedo ver que tengo que hacer, y que he hecho ya, puedes ignorarlo
 - [.gitignore](.gitignore): Un archivo que le dice a git que archivos NO añadir al commit cuando hago `git stage *`, normalmente lo encontraras vacio
+
+Ahora vamos a lo que te interesa y por lo que has venido aqui:
+
+# Exploracio personal
+
+## Que se ha incorporado
+
+He incorporado una tecnica avanzada que permite omitir etiquetas de cierre en ciertos segmentos
+
+## Que hace
+
+Permite omitir etiquetas de cierre en ciertos elementos, como parrafos y casillas de tablas, esto es gracias a que HTML no es compilado, sino interpretado, al haber una etiqueta de parrafo sin cerrar el navegador la cierra automaticamente cuando se encuentra otra etiqueta de parrafo, efectivamente reduciendo el tamaño de la pagina
+
+## Donde se ha usado
+
+- dentro de todo el div en [index.html](index.html)
+- dentro de toda la tabla en [programa.html](programa.html)
+
+## fuente consultada
+
+He consultado al mayor amigo del desarrollador web, [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/p#technical_summary), este link te lleva directo a la seccion donde se encuentra la omision de etiquetas
