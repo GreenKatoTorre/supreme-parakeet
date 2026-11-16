@@ -32,7 +32,6 @@
     - [x] actividad
     - [x] espacio
     - [x] tipo actividad
-  - [ ] Añadir datos reales
 - [x] añadir pie de pagina
 
 ## contacte.html
